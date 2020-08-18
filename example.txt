@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hi this is the first line i am writing
 
 Jordan
+=======
+hi this is the first line ADDED SOME WORDS here i am writing 
+this is the second line of code
+>>>>>>> eb3d889fa908e856b141261f6ad3e1812abbb26d
