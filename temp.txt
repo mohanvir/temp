@@ -1,12 +1,20 @@
+<<<<<<< HEAD
 
 fatima
 
 saki
 
+=======
+<<<<<<< HEAD
+Maria is here again
+
+=======
+>>>>>>> maria2
 saki
 Mohan2
 Usha22
 
+<<<<<<< HEAD
 alkfjalkj
 adlfjalkj
 alkfjdla
@@ -14,3 +22,7 @@ alfjkalk
 alkjfa
 Gary again
 Maria2
+=======
+Maria2
+>>>>>>> master
+>>>>>>> maria2
